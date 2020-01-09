@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+}
+
+h1 {
+    text-align: center;
+} 
+
+h2 {
+    text-align: center;
+    color: gray;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12px;
+}
+
+tr {
+    text-align: center;
+}
+
+tr.side {
+    text-align: center;
+}
+
+ul {
+    margin-left: 120px;
+}
